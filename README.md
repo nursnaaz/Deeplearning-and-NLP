@@ -35,3 +35,16 @@ We Learnt about
 11. Tensor board
 12. Opencv, Yolo3
 13. Sample Hackathon
+
+[Day - 3](https://github.com/nursnaaz/Deeplearning/tree/master/03%20-%20Day%20-%203%20Reccurent%20NN): 01-9-2019 
+1. Neural Network so far can only know what was passed in current time
+2. What if we want to remember last output to predict the future if it is a sequence data
+3. Neuron with memory
+4. RNN architecture
+5. Back Propagation Through Time (BPTT)
+6. Problem with BPTT
+7. Vanishing and Exploding gradient descent
+8. Truncated BPTT
+9. LSTM
+10. LSTM Architecture
+11. Keras LSTM implementation
