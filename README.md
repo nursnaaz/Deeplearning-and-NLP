@@ -48,3 +48,10 @@ We Learnt about
 9. LSTM
 10. LSTM Architecture
 11. Keras LSTM implementation
+
+
+
+References: 
+https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo#SampleStock
+https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/8.1-text-generation-with-lstm.ipynb
+https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras
