@@ -54,4 +54,6 @@ We Learnt about
 References: 
 https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo#SampleStock
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/8.1-text-generation-with-lstm.ipynb
+https://github.com/dipanjanS/nlp_workshop_odsc19
 https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras
+
